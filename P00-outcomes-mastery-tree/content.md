@@ -56,6 +56,10 @@ What's _not_ fine is not knowing your path, so we're here to help you with that!
 
 If you have questions around this, or need help filling it out, talk to your SPD instructor or coach!
 
+> [info]
+>
+> We will revisit Match/Fallback/Reach in chapter 3 in more detail. For now just get a baseline!
+
 # Great Work!
 
 Congrats on taking the first steps into navigating your job search! Setting down this foundation now will make navigating the rest of this tutorial much easier, so make sure to take the time to properly fill out the two items above before you move on.
