@@ -59,6 +59,8 @@ Don't feel limited by LinkedIn and other job search platforms. In fact, sometime
 >
 > Don't forget to add contacts to the [Contact Management Tool](https://docs.google.com/spreadsheets/d/18T7xSIWxxOkWbGImLqHiOflepw2S6h-cM-1y4l9zrjQ/edit#gid=1184999698)
 
+If you think you can get a lot of messaging done in a limited amount of time, sign up for a Premium LinkedIn trial for unlimited LinkedIn Messaging, regardless of if you're connected to someone!
+
 Ok, you've gone through and found a ton of people to contact. What's next?
 
 # Find Contact Info
