@@ -44,3 +44,5 @@ Once you're comfortable with your messages, it's time to send them out!
 > Send out those messages to your contacts! Make sure to add any updates to your Contact Management Tool!
 
 Great work! You're almost there! At this point you should establish your warm connections. Once that's done, move onto the next chapter where you'll begin the job application process!
+
+![at last](./assets/atlast.gif)
