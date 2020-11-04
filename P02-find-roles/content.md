@@ -37,11 +37,19 @@ Not satisfied with what you uncovered before? Other than the common job search p
 >
 > Here is the [search term variations doc](https://docs.google.com/document/d/1w5iy1g6Pmwxt2yvBdZM5R1BF9e-hQGrfPAGb6TnXxQU/edit?usp=sharing) again for your reference
 
-# Quic Pro-Tip
+# Quick Pro-Tip
 
-A lot of this can seem daunting, espeially when you're reading your 50th job posting.
+A lot of this can seem daunting, especially when you're reading your 50th job posting.
 
 To help with this, **spend no more than 30 seconds on evaluating if you should add the job to your list of potential companies**. This might sound short, but just evaluate if you match **70% of the requirements**. Don’t be too picky. We’ll go wide with potential roles then narrow down later.
+
+# Additional Resources
+
+If you need another source, we got one more for you!
+
+> [action]
+>
+> Check out the [Internship and Job Resources](https://docs.google.com/document/d/1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E/edit) doc for a comprhensive list of job boards, organizations, tips, and additional resources to help you land that job!
 
 # Apply what you've learned!
 
