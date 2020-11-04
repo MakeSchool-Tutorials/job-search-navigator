@@ -18,11 +18,10 @@ Often times it's hard to even land that first interview, so we want to make sure
 
 By the end of this tutorial, you should be able to...
 
-1. Understand the outcomes mastery tree at Make School
-1. Create a contact management system
+1. Understand the outcomes mastery tree at Make School, and know when you're ready to start applying to jobs
+1. Create and manage a contact management system
 1. Search for roles that match your skillset and interests
-1. Find and foster "warm connections"
-1. Write to cold/warm connections and recruiters
+1. Find, foster, and utilize both warm and cold connections
 1. Fill out job applications
 
 >[action]
