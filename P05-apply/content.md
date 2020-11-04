@@ -92,3 +92,7 @@ When you recieve your offer letter, we'll go into the final phase: negotiating! 
 Please take a moment to rate your understanding of the learning outcomes from this tutorial, and how we can improve it via our [tutorial feedback form](https://forms.gle/wgVdAJnZcybDfNfV9)
 
 This allows us to get feedback on how well the students are grasping the learning outcomes, and tells us where we can improve the tutorial experience.
+
+# Congrats!!
+
+You have submitted your first batch of job applications by now, and that is something to be proud of! This tutorial will be updated as more content is added, so check back and refresh when you use it so you can get the newest guides and tips!
