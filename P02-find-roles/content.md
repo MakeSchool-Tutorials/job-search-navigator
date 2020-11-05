@@ -55,7 +55,7 @@ If you need another source, we got one more for you!
 
 > [action]
 >
-> Check out the [Internship and Job Resources](https://docs.google.com/document/d/1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E/edit) doc for a comprhensive list of job boards, organizations, tips, and additional resources to help you land that job!
+> Check out the [Internship and Job Resources](https://docs.google.com/document/d/1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E/edit) doc for a comprehensive list of job boards, organizations, tips, and additional resources to help you land that job!
 
 # Apply what you've learned!
 
