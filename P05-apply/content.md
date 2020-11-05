@@ -68,8 +68,8 @@ This process can get overwhelming, so it's important to block off dedicated time
 >     1.Slack your coach
 >     1. Slack the Student Experience Manager and Outcomes Manager
 >     1. Go to job search office hours
-> 1. **Share (and celebrate) interviews and offers with instructors!** And log them into the Applications tab of your Contact Management System
-> 1. **Use your Contact Management System** to …
+> 1. **Share (and celebrate) interviews and offers with instructors!** And log them into the Applications tab of your Contact Management Tool
+> 1. **Use your Contact Management Tool** to …
 >     1. Log new contacts you make at companies
 >     1. Set follow up reminder to check in with recruiters if they don’t respond
 >     1. Update status at a company

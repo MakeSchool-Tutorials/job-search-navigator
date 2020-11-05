@@ -17,13 +17,17 @@ For this chapter, we're going to be using the [Job Offer Steps to Success](https
 >
 > [Create a copy of the Job Offer Steps to Success](https://docs.google.com/spreadsheets/d/18T7xSIWxxOkWbGImLqHiOflepw2S6h-cM-1y4l9zrjQ/edit?usp=sharing) using File --> Make a Copy. From there, open the **Instructions** tab, and read through the instructions before we cover the other tabs.
 
+## Important Note
+
+From here on out, we will refer to your copy of the Job Offer Steps to Success sheet as your **CMT: Contact Management Tool.** We will be using it a lot, and this will make it easier to refer back to
+
 # Networking Goals
 
 This is an important first step, as it's something you can take immediate action on today! It's also going to be key in terms of unlocking referrals for you, and for expanding your connections! **Remember, 80% of job offers happen through referrals, so it's important to start building your network now so that you have more people who can refer you down the road!**
 
 > [action]
 >
-> Write out your networking goals for the next 2 terms. Use the example provided as a guide.
+> Write out your networking goals for the next 2 terms on the `Networking Goals` tab of your CMT. Use the example provided in the tab as a guide.
 
 Make sure to take time at the end of each term to check in and see if you met your goals. Also use that time to plan goals for future terms!
 
@@ -38,7 +42,7 @@ Use this tab to keep track of contacts you make or are planning on making during
 
 > [action]
 >
-> Fill in any contacts you've made so far, and add ones that you want to reach out to. Feel free to make a new section titled "Junior Year" to put any contacts you made during your first year at Make School
+> Fill in any contacts you've made so far in your CMT, and add ones that you want to reach out to. Feel free to make a new section titled "Junior Year" to put any contacts you made during your first year at Make School
 
 Every time you make a new contact, fill out their info in this table!
 
@@ -57,7 +61,7 @@ This is more for visualizing your network. As you add contacts and establish con
 
 > [action]
 >
-> If you've already started your job application process, fill this out now with all the places you've actively interviewing at, places you've applied, places you're going to apply, and ones where you are no longer pursuing.
+> If you've already started your job application process, fill the `Applications` tab of your CMT out now with all the places you've actively interviewing at, places you've applied, places you're going to apply, and ones where you are no longer pursuing.
 
 # Job Offer Calculator
 
@@ -83,7 +87,7 @@ Think of the people in your network who fit the above description, and those are
 
 > [action]
 >
-> Fill out the yellow boxes in the Job Offer Calculator. Use your current number of LinkedIn connections, current number of applications submitted, and current number of meaningful contacts to start.
+> In your CMT, fill out the yellow boxes in the Job Offer Calculator. Use your current number of LinkedIn connections, current number of applications submitted, and current number of meaningful contacts to start.
 
 Though the number of expected job offers may be small at this moment in time, it is _NOT_ representative of where you will be in the future. Use this as a learning experience to see how many more applications and connections you need to make!
 
