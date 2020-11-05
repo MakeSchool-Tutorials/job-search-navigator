@@ -34,7 +34,7 @@ Here's that process described in the video outlined below. Yes this will be more
 
 **Follow-up:**
 
-1. After applying, follow up _every week_ to ask for an update in the process ... any of these messages will work …
+1. After applying, follow up _every week_ to ask for an update in the process. Utilize the [follow up message templates](https://docs.google.com/document/d/13JGarODrfhwkuPGP2OY8oGQ8nxtaloNQnClrocCNM6A/edit#heading=h.m75g4qvq3p61) to get started
 1. _(Bonus step!)_ Send recruiters updates if you ship a product or have any other achievements as a way to make contact and show progress
 
 # Weekly Regimen
