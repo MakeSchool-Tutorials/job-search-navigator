@@ -15,7 +15,9 @@ Let's start off on a good note!
 
 > [action]
 >
-> Watch [this video](https://youtu.be/rl4K7DunU30) that explains how to utilize the Warm Contact Message Templates.
+> Watch this video that explains how to utilize the Warm Contact Message Templates.
+>
+> ![ms-video-youtube](https://www.youtube.com/watch?v=rl4K7DunU30)
 >
 > Once you're done, open the [template doc](https://docs.google.com/document/d/13JGarODrfhwkuPGP2OY8oGQ8nxtaloNQnClrocCNM6A/edit?usp=sharing) yourself, and start using them to craft your messages for your list of contacts!
 >

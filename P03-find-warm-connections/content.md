@@ -31,7 +31,9 @@ The first step is to see if you already know someone at the companies you're loo
 
 > [action]
 >
-> Follow [this video here](https://www.youtube.com/watch?v=zHcqFTXoiLU) to see how to leverage your LinkedIn network to create warm connections. See if you can do this on other job search platforms as well!
+> Follow this video here to see how to leverage your LinkedIn network to create warm connections. See if you can do this on other job search platforms as well!
+>
+> ![ms-video-youtube](https://www.youtube.com/watch?v=zHcqFTXoiLU)
 >
 > Make sure you go through and all Make School staff on LinkedIn so that your network expands and more warm connections can be made!
 >
@@ -51,7 +53,9 @@ Don't feel limited by LinkedIn and other job search platforms. In fact, sometime
 
 > [action]
 >
-> Watch [this video on how to use Facebook to find warm connections](https://drive.google.com/file/d/1ngBQLZG0Q-ByJzW991Rn9yT7yVsvFI8U/view)
+> Watch this video on how to use Facebook to find warm connections
+>
+> ![ms-video](./assets/facebook_hack.mov)
 >
 > Try this out for yourself and see if you have any 2nd degree connections to companies through Facebook. Then reach out to your friends for an introduction to these 2nd degree connections!
 >
@@ -71,7 +75,9 @@ If you don't have a mutual friend, or don't have a way to obtain someone's conta
 >
 > First, utilize your network to see if they have the contact info of your list of people.
 >
-> If not, [watch this video on strategies for finding contact info](https://www.youtube.com/watch?v=cW61Ke2S0EY). Apply your learnings from the video, and try to find the contact info of whoever you're missing!
+> If not, watch this video on strategies for finding contact info. Apply your learnings from the video, and try to find the contact info of whoever you're missing!
+>
+> ![ms-video-youtube](https://www.youtube.com/watch?v=cW61Ke2S0EY)
 
 
 # Now What?

@@ -19,7 +19,9 @@ Alright let's get into it
 
 > [action]
 >
-> [Watch this quick video that describes Make School's 5-step process for job applications](https://youtu.be/VN0JfBnOE0U). Note that instead of using JobTracker, utilize the Applications tab in your Contact Management Tool to achieve the same result.
+> Watch this quick video that describes Make School's 5-step process for job applications. Note that instead of using JobTracker, utilize the Applications tab in your Contact Management Tool to achieve the same result.
+>
+> ![ms-video-youtube](https://www.youtube.com/watch?v=VN0JfBnOE0U)
 
 Here's that process described in the video outlined below. Yes this will be more work to do, but you'll get far better results!
 

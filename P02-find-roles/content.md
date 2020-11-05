@@ -14,6 +14,7 @@ Finding a role that suits you can be challenging. Here we'll take some time to f
 > [action]
 >
 > Take 3 minutes to watch this intro video
+>
 > ![ms-video-youtube](https://www.youtube.com/watch?v=XCOPwIWf5ck)
 >
 > Then make a copy of [this document](https://docs.google.com/document/d/1WxcrXA-_M3t-iYLfrGv4MYDSczbNSHRBndk8QPLvgTg/edit?usp=sharing) that's mentioned in the video. Fill it out with your "Must-Haves" and "Nice-To-Haves"
@@ -24,7 +25,9 @@ There's a number of job search platforms out there, and it can feel overwhelming
 
 > [action]
 >
-> Watch this video on [how to navigate job search platforms](https://youtu.be/6EFb71F9Ka8)
+> Watch this video on how to navigate job search platforms
+>
+> ![ms-video-youtube](https://www.youtube.com/watch?v=6EFb71F9Ka8)
 >
 > Here is the [search term variations doc](https://docs.google.com/document/d/1w5iy1g6Pmwxt2yvBdZM5R1BF9e-hQGrfPAGb6TnXxQU/edit?usp=sharing) that's mentioned in the video.
 
@@ -34,7 +37,9 @@ Not satisfied with what you uncovered before? Other than the common job search p
 
 > [action]
 >
-> Watch this video that [walks through alternative ways to find roles](https://youtu.be/MsvAANk4I4g)
+> Watch this video that walks through alternative ways to find roles
+>
+> ![ms-video-youtube](https://www.youtube.com/watch?v=MsvAANk4I4g)
 >
 > Here is the [search term variations doc](https://docs.google.com/document/d/1w5iy1g6Pmwxt2yvBdZM5R1BF9e-hQGrfPAGb6TnXxQU/edit?usp=sharing) again for your reference
 
@@ -72,7 +77,9 @@ When you're ready to narrow down, many of these platforms allow you to utilize t
 
 > [action]
 >
-> Watch this quick video on how to use [Job Search Filters and Alerts](https://youtu.be/oVv3VeQHVIQ) on LinkedIn!
+> Watch this quick video on how to use Job Search Filters and Alerts on LinkedIn!
+>
+> ![ms-video-youtube](https://www.youtube.com/watch?v=oVv3VeQHVIQ)
 
 # Next up
 
