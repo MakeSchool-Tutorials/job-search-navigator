@@ -55,7 +55,7 @@ Don't feel limited by LinkedIn and other job search platforms. In fact, sometime
 >
 > Watch this video on how to use Facebook to find warm connections
 >
-> ![ms-video](./assets/facebook_hack.mov)
+> ![ms-video-youtube](https://www.youtube.com/watch?v=Rs7CyHZ7UfI)
 >
 > Try this out for yourself and see if you have any 2nd degree connections to companies through Facebook. Then reach out to your friends for an introduction to these 2nd degree connections!
 >
