@@ -14,7 +14,7 @@ Finding a role that suits you can be challenging. Here we'll take some time to f
 > [action]
 >
 > Take 3 minutes to watch this intro video
-> ![ms-video-youtube](https://youtu.be/XCOPwIWf5ck)
+> ![ms-video-youtube](https://www.youtube.com/watch?v=XCOPwIWf5ck)
 >
 > Then make a copy of [this document](https://docs.google.com/document/d/1WxcrXA-_M3t-iYLfrGv4MYDSczbNSHRBndk8QPLvgTg/edit?usp=sharing) that's mentioned in the video. Fill it out with your "Must-Haves" and "Nice-To-Haves"
 
