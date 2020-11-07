@@ -29,7 +29,7 @@ Or maybe you feel like this:
 
 ![eyeroll](./assets/eyeroll.gif)
 
-In other words, **why should I care about this?**
+## In other words, why should I care about this?
 
 1. Whether you believe it now or not, the job search is a mentally and emotionally draining process. There is a lot of moving parts, and you will experience rejection at some point throughout the process
 1. This gets taxing, and can lead to discouragement, or feeling a lack of confidence
