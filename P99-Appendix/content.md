@@ -6,6 +6,7 @@ slug: appendix
 There were a LOT of resources dropped in this tutorial. Here is a comprehensive list for you to reference should you need a specific resource in the future:
 
 - [MS Outcomes Mastery Tree](https://drive.google.com/file/d/0B5OY6XRGtYXpZEljVUlTWVdScnc/view?usp=sharing)
+-[Emotions of the Job Search Journal](https://docs.google.com/document/d/1Mk48IfFo2PoJnUCO511zrniwrNXjtAQO1VvwNvR4Sqk/edit?usp=sharing)
 - [Contact Management Tool (CMT)](https://docs.google.com/spreadsheets/d/18T7xSIWxxOkWbGImLqHiOflepw2S6h-cM-1y4l9zrjQ/edit?usp=sharing)
 - [Must-Haves and Nice-To-Haves](https://docs.google.com/document/d/1WxcrXA-_M3t-iYLfrGv4MYDSczbNSHRBndk8QPLvgTg/edit?usp=sharing)
 - [search term variations doc](https://docs.google.com/document/d/1w5iy1g6Pmwxt2yvBdZM5R1BF9e-hQGrfPAGb6TnXxQU/edit?usp=sharing)
