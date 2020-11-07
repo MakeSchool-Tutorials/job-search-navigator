@@ -18,7 +18,26 @@ We’re going to talk about how to point yourself in the direction of growth, an
 >
 > We're going to utilize a journal for this chapter. Before moving forward, [make a copy of this journal](https://docs.google.com/document/d/1Mk48IfFo2PoJnUCO511zrniwrNXjtAQO1VvwNvR4Sqk/edit?usp=sharing), and use it for the actions that appear in this chapter
 
-# What is internship and job ready?
+## You Might Be Thinking...
+
+- "Why do I need to know this?"
+- "This isn't helpful"
+- "Get back to the REAL work"
+- "I don't do touchy-feely stuff"
+
+Or maybe you feel like this:
+
+![eyeroll](./assets/eyeroll.gif)
+
+In other words, **why should I care about this?**
+
+1. Whether you believe it now or not, the job search is a mentally and emotionally draining process. There is a lot of moving parts, and you will experience rejection at some point throughout the process
+1. This gets taxing, and can lead to discouragement, or feeling a lack of confidence
+1. We want you to be able to handle the mental and emotional toll this process can sometimes take!
+
+Prepping from a technical side is only part of the process! Just like you wouldn't go into an interview without preparing for the technical questions, you need to prepare to handle the emotional aspect just the same.
+
+# What does internship and job ready mean?
 
 There’s 4 aspects to being job-ready:
 
@@ -113,6 +132,23 @@ How we think about ourselves influences our behavior, and also our inner critic.
 **Self-Affirmation**
 
 “Lauren may have made a mistake, but it doesn’t define her! She’s brave and knows how to pick herself back up.”  
+
+## Imposter Syndrome
+
+Closely related to the inner critic is imposter syndrome. Have you ever found yourself feeling like you didn't belong? Or have said the following to yourself:
+
+- “I can’t”
+- “I can’t motivate myself”
+- “Everyone is a faster learner than me”
+- “I’m too slow”
+- “I’m not good enough”
+- “I don’t belong here”
+
+If you've ever felt this way, know you're not alone! And we have a great guide to help you with ways to combat this feeling:
+
+> [action]
+>
+> Review the [Imposter Syndrome Tool](https://docs.google.com/document/d/1wpyccyqT80ABFgjPwlMIHZSepRqH_-MR8Hu2KXQhDv4/edit?usp=sharing), and write down 2 strategies you're going to use to help combat imposter syndrome!
 
 # Dealing with rejection
 
