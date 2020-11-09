@@ -39,9 +39,15 @@ Prepping from a technical side is only part of the process! Just like you wouldn
 
 # What does internship and job ready mean?
 
-There’s 4 aspects to being job-ready:
+Make School considers students internship/job-ready when they have completed the following:
 
-1. **Mentally**: Technical skills, professional etiquette, advanced communication, WERK
+- finished the [first outcomes tutorial](https://www.makeschool.com/academy/track/standalone/outcomes-preparation-2n8/intro) on resume,linkedin, etc
+- have 40+ hour technical interview practice and 10+ hours behavioral interview practice
+- scored Job Ready during Make School's mock interviews
+
+Those are the hard requirements, but there's more to it than that. In addition to the requirements above, there are 4 general buckets to consider for being being internship/job-ready:
+
+1. **Mentally**: Technical skills, professional etiquette, advanced communication, a.k.a. WERK (this is mainly the hard requirements from above)
 1. **Emotionally**: Asking for help, building your confidence, clapping back at your inner critic
 1. **Physically**: Taking care of your health (fitness, nutrition, screen time)
 1. **Spiritually**: aligning your values with your job; serving a greater good
