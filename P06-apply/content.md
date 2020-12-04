@@ -67,7 +67,7 @@ This process can get overwhelming, so it's important to block off dedicated time
 >     1. 1-hour “phase time block” to do one of the phases above to grow your job funnel
 >     1. **Create a ½-hour “messaging time block”** to respond to incoming messages (always respond in less than 24 hours). Schedule before lunch and before they go home because if you schedule in mid-day you can get lost in the email rabbit hole.
 > 1. **Get help** from instructors and community on issues, concerns, ideas, worries, or blockers
->     1.Slack your coach
+>     1. Slack your coach
 >     1. Slack the Student Experience Manager and Outcomes Manager
 >     1. Go to job search office hours
 > 1. **Share (and celebrate) interviews and offers with instructors!** And log them into the Applications tab of your Contact Management Tool
