@@ -98,3 +98,7 @@ This allows us to get feedback on how well the students are grasping the learnin
 # Congrats!!
 
 You have submitted your first batch of job applications by now, and that is something to be proud of! This tutorial will be updated as more content is added, so check back and refresh when you use it so you can get the newest guides and tips!
+
+# What's Next?
+
+Keep repeating the processes you've learned so far in order to grow your network and submit more applications. Eventually the time will come when you need to interview! While technical interview prep will be covered in your classes and mock interviews, there's more to an interview beyond acing the technical questions. Read on to learn more!
