@@ -3,7 +3,7 @@ title: "Appendix"
 slug: appendix
 ---
 
-There were a LOT of resources dropped in this tutorial. Here is a comprehensive list for you to reference should you need a specific resource in the future. These also include resources that didn't make it into the actual tutorial itself:
+There were a LOT of resources dropped in this tutorial. Here is a comprehensive list of resources created by Make School for you to reference should you need a specific resource in the future. These also include resources that didn't make it into the actual tutorial itself:
 
 ## MS Outcomes
 
@@ -37,6 +37,7 @@ There were a LOT of resources dropped in this tutorial. Here is a comprehensive 
 - [tips to negotiating](https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit)
 - [Exploding offers](https://docs.google.com/document/d/1-pKOQ0Fqe-PoFq20l-ktIZ22KUQS4RdDjWwkONPPSYs/edit#heading=h.l0bnxhcy9rkz)
 - [Internship search FAQ’s](https://docs.google.com/document/u/1/d/1EyFZnCNx2lxv29w8u3Q5M27w1iwbKfnC5E58LO7kRUM/edit?usp=drive_web&ouid=102349547791146369642)
+- [Counter Offer Letter Template](https://docs.google.com/document/d/1RNsOoKREK8S81lei84WNivZLo_VcVY1SvKEZk1Uglm0/edit)
 
 ## Technical Interviewing
 

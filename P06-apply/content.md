@@ -80,7 +80,7 @@ This process can get overwhelming, so it's important to block off dedicated time
 
 ## Negotiating and Signing offers
 
-When you recieve your offer letter, we'll go into the final phase: negotiating! Rarely is it in your benefit to not negotiate for a higher salary, and doing so could net you a 10-20% increase to your starting pay, a signing bonus, or more! Not negotiating is leaving money on the table, and allowing the company to pay you the lowest that they think you'll accept. Show them you know your value!
+When you receive your offer letter, we'll go into the final phase: negotiating! Rarely is it in your benefit to not negotiate for a higher salary, and doing so could net you a 10-20% increase to your starting pay, a signing bonus, or more! Not negotiating is leaving money on the table, and allowing the company to pay you the lowest that they think you'll accept. Show them you know your value! **Check out the later chapter in this tutorial around Salary Negotiation as well!**
 
 > [action]
 >
