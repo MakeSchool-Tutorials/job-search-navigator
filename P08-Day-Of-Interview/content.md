@@ -100,7 +100,7 @@ Whether the interview is in-person, over a video call, or even just on the phone
 >
 > Practice good hygiene!
 
-# Dress The Part
+## Dress The Part
 
 You're interviewing in tech, so a suit is not required, but you also don't want to be in your PJs. Wear something you would wear in a professional setting. Again like the hygiene above, even if they can't see you, it's more about prepping for the job you want, so take a few extra minutes to figure out what you're going to wear!
 
@@ -108,7 +108,7 @@ You're interviewing in tech, so a suit is not required, but you also don't want 
 >
 > Wear something you'd wear in a professional setting.
 
-# Get Your Notebook
+## Get Your Notebook
 
 Make sure you have it! You should've gotten it the night before!
 
